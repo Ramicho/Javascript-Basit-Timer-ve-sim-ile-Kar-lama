@@ -1,1 +1,1 @@
-# Javascript-Basit-Timer-ve-sim-ile-Kar-lama
+# Javascript-Simple-Timer-and-Name-Greeting
